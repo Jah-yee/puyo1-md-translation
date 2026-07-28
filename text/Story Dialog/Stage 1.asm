@@ -25,7 +25,7 @@ Stage_1:	; Draco Centauros
 										
 		Font_Story 			"If you wanna get past me,"
 		Frames_Pause 		35
-		Font_Story 			"you'll have to best me^"
+		Font_Story 			"you'll have to beat me^"
 		Font_Story 			"in a contest!"	
 		
 		Animation_Enemy		0
